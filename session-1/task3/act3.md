@@ -30,7 +30,7 @@ Which of these cases compile? Why?
 
 **The 4th case**
 
-What is wrong with this case?
+What is wrong with this case? - No indentation
 
 **Gradescope autograding of C code**
 
@@ -43,3 +43,5 @@ Test your code "hello1.c" with the "Classwork 2.3 - practice test" submission au
 
 In each case look at the Gradescope Autograder output
 - This will be typical for tasks submitted this semester
+
+
