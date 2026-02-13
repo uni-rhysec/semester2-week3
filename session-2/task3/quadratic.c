@@ -22,6 +22,7 @@ int main( void ) {
      * Print out the final results for the 2 roots as float values.
      */
 
+    root1 = (-b + sqrt(b*b -4*a*c))/2*a;
     
 
     return 0;
